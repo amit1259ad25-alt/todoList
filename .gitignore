@@ -1,0 +1,19 @@
+# Dependencies (covers root, backend, and frontend)
+node_modules/
+
+# Environment variables & secrets
+.env
+.env.*
+
+# Local test uploads
+uploads/
+
+# Frontend production build
+dist/
+build/
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
