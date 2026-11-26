@@ -1,0 +1,16 @@
+# Environment variables (keeps your MongoDB password safe!)
+.env
+*.env
+
+# Dependencies
+node_modules/
+
+# Build & Vite output
+dist/
+build/
+
+# Logs & OS files
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
